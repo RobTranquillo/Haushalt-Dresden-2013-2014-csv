@@ -1,4 +1,4 @@
-id,part-name,group-name,subgroup-name,asset,account,amount,direction,date
+line-id,part-name,group-name,subgroup-name,asset,account,amount,direction,date
 1,Innere Verwaltung,Verwaltungssteuerung und -service,,Steuern und ähnliche Abgaben,0,Ertrag,2013-31-12
 2,Innere Verwaltung,Verwaltungssteuerung und -service,,Zuwendungen und Umlagen nach Arten und aufgelöste Sonderposten,3155215,Ertrag,2013-31-12
 3,Innere Verwaltung,Verwaltungssteuerung und -service,,sonstige Transfererträge,0,Ertrag,2013-31-12
